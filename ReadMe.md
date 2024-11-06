@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Js  ,Nodejs , React and Angular<br>👯 I’m looking to collaborate on a website project provides a service or sell a product<br>🤝 I’m looking for help with My project<br>💬 Ask me any general questions<br>
+🔭 I’m currently learning Js  ,Nodejs , React and <br>👯 I’m looking to collaborate on a website project provides a service or sell a product<br>🤝 <br>💬 Ask me any general questions<br>
 
 
 ## 🌐 Socials:
