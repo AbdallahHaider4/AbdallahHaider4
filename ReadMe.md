@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber security Trainee
 ----------------------
 
-* 🌍  I'm based in October 6 city - giza
 * ✉️  You can contact me at [abdallahhaider900@gmail.com](mailto:abdallahhaider900@gmail.com)
 * 🧠  I'm learning Cyber Security focusing on Blue team ( Linux ,Wireshark , Burpsuit , Firewalls , SIEM , Network Security , Monitoring & Auditing )
 * 🤝  I'm open to collaborating on Bug Hunting , Vulnerability assessment , solving labs
